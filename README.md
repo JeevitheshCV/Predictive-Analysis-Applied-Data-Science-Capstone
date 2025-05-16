@@ -45,7 +45,7 @@ This repository contains the final project for IBM's Applied Data Science Capsto
 
 ## 🎥 Presentation
 
-📄 [Final Project Presentation (PDF)](Presentation/Final Presentation.pdf)
+📄 [Final Project Presentation (PDF)](Presentation/Final_Presentation.pdf)
 
 ## 💡 Key Insights
 
