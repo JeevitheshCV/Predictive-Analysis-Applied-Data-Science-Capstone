@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# Title: Predictive Analysis of SpaceX Falcon 9 Landings
+>>>>>>> c93373c2035352cb0d7d8c0780f513ac308b1369
 # 🚀 IBM Applied Data Science Capstone – SpaceX Falcon 9 Landing Prediction
 
 This repository contains the final project for IBM's Applied Data Science Capstone. The objective is to **predict whether the first stage of the SpaceX Falcon 9 rocket will land successfully**, which directly impacts launch cost efficiency.
@@ -37,8 +41,12 @@ This repository contains the final project for IBM's Applied Data Science Capsto
 - [EDA (Visual)](notebooks/EDA_DataVisualization.ipynb)
 - [EDA (SQL)](notebooks/EDA_SQL.ipynb)
 - [Dashboard](notebooks/spacex_dash_app.py)
+<<<<<<< HEAD
 - [Dashboard](notebooks/spacex_dash_app.py)
 
+=======
+- [Machine Learning](notebooks/Machine Learning Prediction.ipynb)
+>>>>>>> c93373c2035352cb0d7d8c0780f513ac308b1369
 
 ## 🎥 Presentation
 
@@ -55,6 +63,12 @@ This repository contains the final project for IBM's Applied Data Science Capsto
 
 ## 🔗 Project Links
 
+<<<<<<< HEAD
 - GitHub Repo: *https://github.com/JeevitheshCV/Predictive-Analysis-Applied-Data-Science-Capstone.git*
+=======
+- GitHub Repo: *[Your repo link here]*
+
+---
+>>>>>>> c93373c2035352cb0d7d8c0780f513ac308b1369
 
 
