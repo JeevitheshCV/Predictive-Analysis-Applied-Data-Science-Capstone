@@ -40,12 +40,12 @@ This repository contains the final project for IBM's Applied Data Science Capsto
 - [EDA (Visual)](notebooks/EDA_DataVisualization.ipynb)
 - [EDA (SQL)](notebooks/EDA_SQL.ipynb)
 - [Dashboard](notebooks/spacex_dash_app.py)
-- [Machine Learning](notebooks/Machine Learning Prediction.ipynb)
+- [Machine Learning](notebooks/Machine_Learning_Prediction.ipynb)
 
 
 ## 🎥 Presentation
 
-📄 [Final Project Presentation (PDF)](presentation/Final%20Presentation.pdf)
+📄 [Final Project Presentation (PDF)](presentation/Final Presentation.pdf)
 
 ## 💡 Key Insights
 
